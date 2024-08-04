@@ -1,0 +1,2 @@
+# avs-chainbase
+node holesky
